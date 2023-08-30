@@ -19,7 +19,7 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
 
-
+Route::prefix('v1')->group(function () {
 // List products
 Route::get('products', [ProductController::class, 'index']);
 
@@ -34,3 +34,4 @@ Route::put('product/{id}', [ProductController::class, 'update']);
 
 // Delete product
 Route::delete('product/{id}', [ProductController::class,'destroy']);
+});
