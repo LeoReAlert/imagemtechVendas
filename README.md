@@ -3,5 +3,5 @@
 <br>
 
 <h5>Instruções</h5>
-<p>Rodar comandos abaixo:</p>
+<h6>Rodar comandos abaixo:</h6>
 
