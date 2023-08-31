@@ -8,6 +8,14 @@
 <h5>Rodar comandos artisan abaixo:</h5>
 <h6>$ php artisan key:generate</h6>
 <h6>$ php artisan migrate --seed </h6>
+<br>
+<h5>Versões para fim de não ter erro </h5>
+<h4>Versão PHP: 7.4</h4>
+<h4>Versão Laravel: 8.0</h4>
+<h4>Versão Composer: 2.5.8 </h4>
+<h4>Versão Mysql: 8.0.34 </h4>
+
+
 
 
 
