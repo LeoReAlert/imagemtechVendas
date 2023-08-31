@@ -19,7 +19,7 @@
 <h5>Link para atualizar produto:</h5>
 <h6>Método PUT: http://localhost:8000/v1/api/product/1</h6>
 <h5>Link para deletar produto:</h5>
-<h4>Método DELETE: http://localhost:8000/v1/api/product/1</h4>
+<h6>Método DELETE: http://localhost:8000/v1/api/product/1</h6>
 <br>
 <h5>Versões para fim de não ter erro: </h5>
 <h4>Versão PHP: 7.4</h4>
