@@ -11,9 +11,16 @@
 <br>
 <h5>-- editar arquivo .env com suas informações de conexão -- </h5>
 <br>
-<h5>Instruções para consumir a API: </h5>
-<h4>Link para cadastrar produto requisição HTTP metodo POST:
-<h4>http://localhost:8000/v1/api/product</h4>
+<h5>Instruções para consumir a API requisição HTTP: </h5>
+<h4>Link para ver produto:</h4>
+<h4>Método GET:http://localhost:8000/v1/api/product/1</h4>
+<h4>Link para criar produto:</h4>
+<h4>Método POST:http://localhost:8000/v1/api/product</h4>
+<h4>Link para atualizar produto:</h4>
+<h4>Método PUT:http://localhost:8000/v1/api/product/1</h4>
+<h4>Link para deletar produto:</h4>
+<h4>Método DELETE:http://localhost:8000/v1/api/product/1</h4>
+
 
 <br>
 <h5>Versões para fim de não ter erro: </h5>
