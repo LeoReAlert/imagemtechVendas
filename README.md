@@ -14,7 +14,7 @@
 <h5>Versões para fim de não ter erro: </h5>
 <br>
 <h5>Instruções para consumir a API: </h5>
-<h4>Link para cadastrar produto requisição HTTP metodo POST: <h3> http://localhost:8000/v1/api/product</h3> </h4>
+<h4>Link para cadastrar produto requisição HTTP metodo POST: ***http://localhost:8000/v1/api/product ***
 
 <br>
 <h4>Versão PHP: 7.4</h4>
